@@ -1,0 +1,19 @@
+
+  Id CommandLine
+  -- -----------
+   1 npm i @babel/core @babel/preset-env @babel/preset-react
+   2 npm i webpack webpack-cli webpack-dev-server
+   3 npm i babel-loader html-loader html-webpack-plugin
+
+npm i mini-css-extract-plugin css-loader style-loader sass sass-loader -D
+
+https://api.escuelajs.co/docs/
+
+https://www.namecheap.com/
+
+
+https://platzi.com/tutoriales/2484-react-practico/12068-desplegar-una-app-de-react-junto-con-otros-projectos-en-github-pages/
+
+
+Utils Refs Repositories::
+https://github.com/monoald/next-react-shop
